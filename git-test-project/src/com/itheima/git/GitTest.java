@@ -11,8 +11,9 @@ public class GitTest {
 
     }
 
-    public void test(){
+    public void test() {
         int i = 0;
-        i+=10;
+        i += 10;
     }
+
 }
