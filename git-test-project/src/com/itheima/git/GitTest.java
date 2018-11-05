@@ -8,7 +8,7 @@ public class GitTest {
         System.out.println("git protest");
         System.out.println("git protest");
         System.out.println("git protest");
-        //love-luck-love
+        //love-luck-love-luck
     }
 
     public void test() {
