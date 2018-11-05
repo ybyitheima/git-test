@@ -8,13 +8,12 @@ public class GitTest {
         System.out.println("git protest");
         System.out.println("git protest");
         System.out.println("git protest");
-        //love-luck-love
+
     }
 
     public void test() {
         int i = 0;
         i += 10;
-        System.out.println(i);
     }
 
 }
